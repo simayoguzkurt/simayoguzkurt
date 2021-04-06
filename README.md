@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simayoguzkurt
 - 👀 I’m interested in engineering, sustainability, languages, chemical processes
 - 🌱 I’m currently learning environmental & chemical engineering in Hacettepe University
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on engineers especially environmental & chemical engineers
 - 📫 If you want to reach me e-mail form this adress: simayoguz@gmail.com
 
 <!---
